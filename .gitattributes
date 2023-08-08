@@ -1,3 +1,7 @@
 Model/similarity.joblib filter=lfs diff=lfs merge=lfs -text
+Model/movies_data.joblib filter=lfs diff=lfs merge=lfs -text
+Model/sentiment_analysis_model.pkl filter=lfs diff=lfs merge=lfs -text
+Model/tfidf_vectorizer.pkl filter=lfs diff=lfs merge=lfs -text
+Model filter=lfs diff=lfs merge=lfs -text
 *.joblib filter=lfs diff=lfs merge=lfs -text
 *.pkl filter=lfs diff=lfs merge=lfs -text
