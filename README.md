@@ -47,6 +47,19 @@ Cosine similarity is used to measure the similarity between movies based on thei
 
 ---
 
+### Streamlit Output
+##### Searched Movie
+
+![search](https://github.com/MukeshMushyakhwo/Movie-Recommendation-with-Review-Sentiment-Analysis/assets/112608899/5701d6a9-a8c5-4132-8061-394d842e680a)
+
+##### Reviews with Sentiment
+
+![reviews](https://github.com/MukeshMushyakhwo/Movie-Recommendation-with-Review-Sentiment-Analysis/assets/112608899/76d10e9f-383c-42ee-943d-4b530fb65452)
+
+##### Recommendations
+![recommendations](https://github.com/MukeshMushyakhwo/Movie-Recommendation-with-Review-Sentiment-Analysis/assets/112608899/94a2e34b-fd3c-4a1b-938c-6fcba3fd9b6f)
+
+
 ## 🎬 Movie Recommendation & Sentiment Analysis 🍿
 
 Explore, Analyze, and Discover Movies 
